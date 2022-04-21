@@ -17,6 +17,17 @@ relationship {
   text-color-internal: #FFFFFF;
   caption: "{relation_name} ({credibility})";
 }
+relationship.is_alias {
+  color: blue;
+  shaft-width: var({credibility});
+  width: var({credibility});
+  font-size: 10px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "{type}";
+}
+
 node.* {
   color: #C990C0;
   border-color: #b261a5;
