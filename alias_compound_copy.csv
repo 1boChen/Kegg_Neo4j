@@ -1,0 +1,170 @@
+gene,kegg_id,alia,copy
+"Phosphatidylinositol-3,4,5-trisphosphate",cpd:C05981,"1-Phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate","Phosphatidylinositol-3,4,5-trisphosphate (copy)"
+"3',5'-Cyclic AMP",cpd:C00575,Cyclic adenylic acid,"3',5'-Cyclic AMP (copy)"
+"3',5'-Cyclic AMP",cpd:C00575,Cyclic AMP,"3',5'-Cyclic AMP (copy)"
+"3',5'-Cyclic AMP",cpd:C00575,"Adenosine 3',5'-phosphate","3',5'-Cyclic AMP (copy)"
+"3',5'-Cyclic AMP",cpd:C00575,"Adenosine 3',5'-cyclic phosphate","3',5'-Cyclic AMP (copy)"
+"3',5'-Cyclic AMP",cpd:C00575,cAMP,"3',5'-Cyclic AMP (copy)"
+Leukotriene B4,cpd:C02165,"(6Z,8E,10E,14Z)-(5S,12R)-5,12-Dihydroxyeicosa-6,8,10,14-tetraenoate",Leukotriene B4 (copy)
+Leukotriene B4,cpd:C02165,"(6Z,8E,10E,14Z)-(5S,12R)-5,12-Dihydroxyicosa-6,8,10,14-tetraenoate",Leukotriene B4 (copy)
+Leukotriene B4,cpd:C02165,LTB4,Leukotriene B4 (copy)
+8(S)-HETE,cpd:C14776,"(5Z,9E,11Z,14Z)-(8S)-8-Hydroxyeicosa-5,9,11,14-tetraenoic acid",8(S)-HETE (copy)
+9(S)-HODE,cpd:C14767,(9S)-Hydroxyoctadecadienoic acid,9(S)-HODE (copy)
+13(S)-HODE,cpd:C14762,(13S)-Hydroxyoctadecadienoic acid,13(S)-HODE (copy)
+"D-myo-Inositol 1,4,5-trisphosphate",cpd:C01245,"1D-myo-Inositol 1,4,5-trisphosphate","D-myo-Inositol 1,4,5-trisphosphate (copy)"
+"D-myo-Inositol 1,4,5-trisphosphate",cpd:C01245,"Inositol 1,4,5-trisphosphate","D-myo-Inositol 1,4,5-trisphosphate (copy)"
+"3',5'-Cyclic GMP",cpd:C00942,"Guanosine 3',5'-cyclic monophosphate","3',5'-Cyclic GMP (copy)"
+"3',5'-Cyclic GMP",cpd:C00942,"Guanosine 3',5'-cyclic phosphate","3',5'-Cyclic GMP (copy)"
+"3',5'-Cyclic GMP",cpd:C00942,Cyclic GMP,"3',5'-Cyclic GMP (copy)"
+"3',5'-Cyclic GMP",cpd:C00942,cGMP,"3',5'-Cyclic GMP (copy)"
+Prostaglandin I2,cpd:C01312,"(5Z,13E)-(15S)-6,9alpha-Epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate",Prostaglandin I2 (copy)
+Prostaglandin I2,cpd:C01312,Prostacyclin,Prostaglandin I2 (copy)
+Prostaglandin I2,cpd:C01312,PGI2,Prostaglandin I2 (copy)
+Prostaglandin I2,cpd:C01312,Epoprostenol,Prostaglandin I2 (copy)
+L-Adrenaline,cpd:C00788,(R)-(-)-Adrenaline,L-Adrenaline (copy)
+L-Adrenaline,cpd:C00788,(R)-(-)-Epinephrine,L-Adrenaline (copy)
+L-Adrenaline,cpd:C00788,(R)-(-)-Epirenamine,L-Adrenaline (copy)
+L-Adrenaline,cpd:C00788,(R)-(-)-Adnephrine,L-Adrenaline (copy)
+L-Noradrenaline,cpd:C00547,Noradrenaline,L-Noradrenaline (copy)
+L-Noradrenaline,cpd:C00547,Norepinephrine,L-Noradrenaline (copy)
+L-Noradrenaline,cpd:C00547,Arterenol,L-Noradrenaline (copy)
+Dopamine,cpd:C03758,"4-(2-Aminoethyl)-1,2-benzenediol",Dopamine (copy)
+Dopamine,cpd:C03758,"4-(2-Aminoethyl)benzene-1,2-diol",Dopamine (copy)
+Dopamine,cpd:C03758,"3,4-Dihydroxyphenethylamine",Dopamine (copy)
+Prostaglandin E2,cpd:C00584,"(5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate",Prostaglandin E2 (copy)
+Prostaglandin E2,cpd:C00584,Dinoprostone,Prostaglandin E2 (copy)
+Prostaglandin E2,cpd:C00584,PGE2,Prostaglandin E2 (copy)
+Phosphatidate,cpd:C00416,Phosphatidic acid,Phosphatidate (copy)
+Phosphatidate,cpd:C00416,"1,2-Diacyl-sn-glycerol 3-phosphate",Phosphatidate (copy)
+Phosphatidate,cpd:C00416,3-sn-Phosphatidate,Phosphatidate (copy)
+"1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate",cpd:C04637,"1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate","1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate (copy)"
+"1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate",cpd:C04637,"Phosphatidyl-myo-inositol 4,5-bisphosphate","1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate (copy)"
+"1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate",cpd:C04637,"Phosphatidylinositol-4,5-bisphosphate","1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate (copy)"
+Prostaglandin F2alpha,cpd:C00639,"(5Z,13E)-(15S)-9alpha,11alpha,15-Trihydroxyprosta-5,13-dienoate",Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,(+)-Prostaglandin F2a,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,"7-[3,5-Dihydroxy-2-(3-hydroxy-1-octenyl)cyclopentyl]-5-heptenoic acid",Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,"9a,11a-PGF2",Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Amoglandin,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Cyclosin,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Dinoprost,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Enzaprost,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Enzaprost F,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Panacelan,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,PGF2a,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,"9,11,15-Trihydroxy-(5Z,9a,11a,13E,15S)-prosta-5,13-dien-1-oic acid",Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Prostaglandin F2a,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Prostin F 2 alpha,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,Protamodin,Prostaglandin F2alpha (copy)
+Prostaglandin F2alpha,cpd:C00639,U 14583,Prostaglandin F2alpha (copy)
+Lipoxin A4,cpd:C06314,LXA4,Lipoxin A4 (copy)
+Lipoxin A4,cpd:C06314,"5S,6R,15S-Trihydroxy-7E,9E,11Z,13E-eicosatetraenoic acid",Lipoxin A4 (copy)
+Prostaglandin D2,cpd:C00696,"(5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate",Prostaglandin D2 (copy)
+Prostaglandin D2,cpd:C00696,"(5Z,13E,15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate",Prostaglandin D2 (copy)
+Prostaglandin D2,cpd:C00696,PGD2,Prostaglandin D2 (copy)
+Thromboxane A2,cpd:C02198,"(5Z,13E)-(15S)-9alpha,11alpha-Epoxy-15-hydroxythromboxa-5,13-dienoate",Thromboxane A2 (copy)
+Thromboxane A2,cpd:C02198,"(5Z,9alpha,11alpha,13E,15S)-9,11-Epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid",Thromboxane A2 (copy)
+Thromboxane A2,cpd:C02198,TXA2,Thromboxane A2 (copy)
+Anandamide,cpd:C11695,Arachidonylethanolamide,Anandamide (copy)
+Anandamide,cpd:C11695,"N-(5Z,8Z,11Z,14Z-Eicosatetraenoyl)-ethanolamine",Anandamide (copy)
+Anandamide,cpd:C11695,AEA,Anandamide (copy)
+Leukotriene E4,cpd:C05952,LTE4,Leukotriene E4 (copy)
+Leukotriene E4,cpd:C05952,"(7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate",Leukotriene E4 (copy)
+N-Arachidonyl dopamine,cpd:C12271,Arachidonoyl dopamine,N-Arachidonyl dopamine (copy)
+N-Arachidonyl dopamine,cpd:C12271,NADA,N-Arachidonyl dopamine (copy)
+Cortisol,cpd:C00735,Hydrocortisone,Cortisol (copy)
+Cortisol,cpd:C00735,"11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione",Cortisol (copy)
+Cortisol,cpd:C00735,Kendall's compound F,Cortisol (copy)
+Cortisol,cpd:C00735,Reichstein's substance M,Cortisol (copy)
+Triiodothyronine,cpd:C02465,"3,3',5-Triiodo-L-thyronine",Triiodothyronine (copy)
+Triiodothyronine,cpd:C02465,"L-3,5,3'-Triiodothyronine",Triiodothyronine (copy)
+Triiodothyronine,cpd:C02465,"3,5,3'-Triiodothyronine",Triiodothyronine (copy)
+Triiodothyronine,cpd:C02465,Liothyronine,Triiodothyronine (copy)
+Triiodothyronine,cpd:C02465,"3,5,3'-Triiodo-L-thyronine",Triiodothyronine (copy)
+Triiodothyronine,cpd:C02465,T3,Triiodothyronine (copy)
+Thyroxine,cpd:C01829,Levothyroxin,Thyroxine (copy)
+Thyroxine,cpd:C01829,L-Thyroxine,Thyroxine (copy)
+Thyroxine,cpd:C01829,"O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine",Thyroxine (copy)
+Thyroxine,cpd:C01829,"3,5,3'5'-Tetraiodo-L-thyronine",Thyroxine (copy)
+Thyroxine,cpd:C01829,T4,Thyroxine (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,1-Phosphatidyl-1D-myo-inositol,1-Phosphatidyl-D-myo-inositol (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,1-Phosphatidyl-myo-inositol,1-Phosphatidyl-D-myo-inositol (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,Phosphatidyl-1D-myo-inositol,1-Phosphatidyl-D-myo-inositol (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,(3-Phosphatidyl)-1-D-inositol,1-Phosphatidyl-D-myo-inositol (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,"1,2-Diacyl-sn-glycero-3-phosphoinositol",1-Phosphatidyl-D-myo-inositol (copy)
+1-Phosphatidyl-D-myo-inositol,cpd:C01194,Phosphatidylinositol,1-Phosphatidyl-D-myo-inositol (copy)
+Resveratrol,cpd:C03582,"3,4',5-Trihydroxystilbene",Resveratrol (copy)
+Resveratrol,cpd:C03582,trans-Resveratrol,Resveratrol (copy)
+Arachidonate,cpd:C00219,Arachidonic acid,Arachidonate (copy)
+Arachidonate,cpd:C00219,"(5Z,8Z,11Z,14Z)-Icosatetraenoic acid",Arachidonate (copy)
+Arachidonate,cpd:C00219,"cis-5,8,11,14-Eicosatetraenoic acid",Arachidonate (copy)
+Arachidonate,cpd:C00219,"5Z,8Z,11Z,14Z-Eicosatetraenoic acid",Arachidonate (copy)
+20-HETE,cpd:C14748,"(5Z,8Z,11Z,14Z)-20-Hydroxyicosa-5,8,11,14-tetraenoic acid",20-HETE (copy)
+20-HETE,cpd:C14748,20-Hydroxyeicosatetraenoic acid,20-HETE (copy)
+20-HETE,cpd:C14748,20-Hydroxyicosatetraenoic acid,20-HETE (copy)
+20-HETE,cpd:C14748,20-Hydroxy arachidonic acid,20-HETE (copy)
+"14,15-EET",cpd:C14771,"(5Z,8Z,11Z)-14,15-Epoxyeicosa-5.8.11-trienoic acid","14,15-EET (copy)"
+"11,12-EET",cpd:C14770,"(5Z,8Z,14Z)-11,12-Epoxyeicosa-5,8,14-trienoic acid","11,12-EET (copy)"
+"8,9-EET",cpd:C14769,"(5Z,11Z,14Z)-8,9-Epoxyeicosa-5,11,14-trienoic acid","8,9-EET (copy)"
+"5,6-EET",cpd:C14768,"(8Z,11Z,14Z)-5,6-Epoxyeicosa-8,11,14-trienoic acid","5,6-EET (copy)"
+Prostaglandin H2,cpd:C00427,"(5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate",Prostaglandin H2 (copy)
+Prostaglandin H2,cpd:C00427,"(5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate",Prostaglandin H2 (copy)
+Prostaglandin H2,cpd:C00427,PGH2,Prostaglandin H2 (copy)
+Hyaluronate,cpd:C00518,Hyaluronic acid,Hyaluronate (copy)
+Hyaluronate,cpd:C00518,Hyaluronan,Hyaluronate (copy)
+Angiotensin IV,cpd:C15849,Angiotensin II,Angiotensin IV (copy)
+Angiotensin IV,cpd:C15849,1-des-asn-2-arg,Angiotensin IV (copy)
+"1,3-beta-D-Glucan",cpd:C00965,"1,3-beta-Glucan","1,3-beta-D-Glucan (copy)"
+"1,3-beta-D-Glucan",cpd:C00965,"(1,3-beta-D-Glucosyl)n","1,3-beta-D-Glucan (copy)"
+"1,3-beta-D-Glucan",cpd:C00965,"(1,3-beta-D-Glucosyl)n+1","1,3-beta-D-Glucan (copy)"
+Trehalose dimycolate,cpd:C21790,"Trehalose-6,6'-dimycolate",Trehalose dimycolate (copy)
+Trehalose dimycolate,cpd:C21790,TDM,Trehalose dimycolate (copy)
+Trehalose dimycolate,cpd:C21790,Cord factor,Trehalose dimycolate (copy)
+12(S)-HPETE,cpd:C05965,"(5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid",12(S)-HPETE (copy)
+12(S)-HPETE,cpd:C05965,"(5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoate",12(S)-HPETE (copy)
+12(S)-HPETE,cpd:C05965,12-Hydroperoxyeicosatetraenoate,12(S)-HPETE (copy)
+12(S)-HPETE,cpd:C05965,12-Hydroperoxyicosatetraenoate,12(S)-HPETE (copy)
+12(S)-HPETE,cpd:C05965,12-Hydroperoxyeicosatetraenoic acid,12(S)-HPETE (copy)
+12(S)-HPETE,cpd:C05965,12-Hydroperoxyicosatetraenoic acid,12(S)-HPETE (copy)
+"(5Z,7E,9E,14Z,17Z)-Icosapentaenoate",cpd:C12083,"(5Z,7E,9E,14Z,17Z)-Eicosapentaenoic acid","(5Z,7E,9E,14Z,17Z)-Icosapentaenoate (copy)"
+"(5Z,7E,9E,14Z,17Z)-Icosapentaenoate",cpd:C12083,"(5Z,7E,9E,14Z,17Z)-Eicosapentaenoate","(5Z,7E,9E,14Z,17Z)-Icosapentaenoate (copy)"
+"(5Z,7E,9E,14Z,17Z)-Icosapentaenoate",cpd:C12083,"5Z,7E,9E,14Z,17Z-Eicosapentaenoic acid","(5Z,7E,9E,14Z,17Z)-Icosapentaenoate (copy)"
+15(S)-HPETE,cpd:C05966,"(5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoic acid",15(S)-HPETE (copy)
+15(S)-HPETE,cpd:C05966,15-Hydroperoxyeicosatetraenoate,15(S)-HPETE (copy)
+15(S)-HPETE,cpd:C05966,15-Hydroperoxyicosatetraenoate,15(S)-HPETE (copy)
+15(S)-HPETE,cpd:C05966,15-Hydroperoxyeicosatetraenoic acid,15(S)-HPETE (copy)
+15(S)-HPETE,cpd:C05966,15-Hydroperoxyicosatetraenoic acid,15(S)-HPETE (copy)
+5(S)-HETE,cpd:C04805,5-Hydroxyeicosatetraenoate,5(S)-HETE (copy)
+5(S)-HETE,cpd:C04805,5-HETE,5(S)-HETE (copy)
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",cpd:C04742,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate","(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate (copy)"
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",cpd:C04742,"(5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid","(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate (copy)"
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",cpd:C04742,15(S)-HETE,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate (copy)"
+"1,8-Cineole",cpd:C09844,"1,8-Cineol","1,8-Cineole (copy)"
+"1,8-Cineole",cpd:C09844,Eucalyptol,"1,8-Cineole (copy)"
+"3,5-Diiodo-L-tyrosine",cpd:C01060,"3,5-Diiodotyrosine","3,5-Diiodo-L-tyrosine (copy)"
+"3,5-Diiodo-L-tyrosine",cpd:C01060,L-Diiodotyrosine,"3,5-Diiodo-L-tyrosine (copy)"
+Corticosterone,cpd:C02140,"11beta,21-Dihydroxy-4-pregnene-3,20-dione",Corticosterone (copy)
+Corticosterone,cpd:C02140,Kendall's compound B,Corticosterone (copy)
+Corticosterone,cpd:C02140,Reichstein's substance H,Corticosterone (copy)
+Calcitriol,cpd:C01673,"1alpha,25-Dihydroxyvitamin D3",Calcitriol (copy)
+Cholic acid,cpd:C00695,Cholate,Cholic acid (copy)
+Cholic acid,cpd:C00695,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholanate",Cholic acid (copy)
+Chenodeoxycholate,cpd:C02528,Chenodeoxycholic acid,Chenodeoxycholate (copy)
+Chenodeoxycholate,cpd:C02528,"3alpha,7alpha-Dihydroxy-5beta-cholanic acid",Chenodeoxycholate (copy)
+Chenodeoxycholate,cpd:C02528,Chenodiol,Chenodeoxycholate (copy)
+Glycocholate,cpd:C01921,Glycocholic acid,Glycocholate (copy)
+Deoxycholic acid,cpd:C04483,Deoxycholate,Deoxycholic acid (copy)
+Deoxycholic acid,cpd:C04483,"3alpha,12alpha-Dihydroxy-5beta-cholanate",Deoxycholic acid (copy)
+Androstenedione,cpd:C00280,"Androst-4-ene-3,17-dione",Androstenedione (copy)
+Cortisone,cpd:C00762,"17alpha,21-Dihydroxy-4-pregnene-3,11,20-trione",Cortisone (copy)
+Cortisone,cpd:C00762,Kendall's compound E,Cortisone (copy)
+Cortisone,cpd:C00762,Reichstein's substance Fa,Cortisone (copy)
+"2,3,7,8-Tetrachlorodibenzodioxin",cpd:C07557,Tetrachlorodibenzodioxin,"2,3,7,8-Tetrachlorodibenzodioxin (copy)"
+"2,3,7,8-Tetrachlorodibenzodioxin",cpd:C07557,"2,3,7,8-Tetrachlorodibenzo-p-dioxin","2,3,7,8-Tetrachlorodibenzodioxin (copy)"
+"2,3,7,8-Tetrachlorodibenzodioxin",cpd:C07557,TCDD,"2,3,7,8-Tetrachlorodibenzodioxin (copy)"
+"2,3,7,8-Tetrachlorodibenzodioxin",cpd:C07557,PCDD 48,"2,3,7,8-Tetrachlorodibenzodioxin (copy)"
+"3,3',4,4',5-Pentachlorobiphenyl",cpd:C14573,PCB 126,"3,3',4,4',5-Pentachlorobiphenyl (copy)"
+DDT,cpd:C04623,"1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane",DDT (copy)
+DDT,cpd:C04623,"1,1,1-Trichloro-2,2-bis-(4'-chlorophenyl)ethane",DDT (copy)
+DDT,cpd:C04623,Clofenotane,DDT (copy)
+DDT,cpd:C04623,Dichlorodiphenyltrichloroethane,DDT (copy)
+"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",cpd:C16038,PhIP,"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (copy)"
