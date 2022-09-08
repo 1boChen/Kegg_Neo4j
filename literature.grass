@@ -79,10 +79,10 @@ relationship.expression {
   color: #ff0000;
 }
 relationship.activate {
-  color: green;
+  color: red;
 }
 relationship.inhibit {
-  color: red;
+  color: green;
 }
 relationship.phosphorylation {
   color: #ffcc00;
