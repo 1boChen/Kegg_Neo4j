@@ -15,7 +15,7 @@ relationship {
   padding: 3px;
   text-color-external: #000000;
   text-color-internal: #FFFFFF;
-  caption: "{relation_name} ({credibility}) {PMCID}";
+  caption: "{PMCID} {relation_name} ({credibility})";
 }
 node.* {
   color: #C990C0;
