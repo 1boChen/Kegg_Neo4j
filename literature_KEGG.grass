@@ -82,11 +82,13 @@ relationship.expression {
 }
 relationship.activation {
   color: #ff6699;
-  shaft-width: var({credibility});
+  shaft-width: "var({credibility})";
+  width: "var({credibility})";
 }
 relationship.inhibition {
   color: #00cc66;
   shaft-width: var({credibility});
+  width: "var({credibility})";
 }
 relationship.phosphorylation {
   color: #ffcc00;
