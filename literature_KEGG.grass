@@ -82,7 +82,7 @@ relationship.expression {
 }
 relationship.activation {
   color: #ff6699;
-  shaft-width: "var({credibility})";
+  shaft-width: "var({credibility})"px;
   width: "var({credibility})";
 }
 relationship.inhibition {
