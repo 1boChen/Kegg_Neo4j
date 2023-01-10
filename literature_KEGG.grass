@@ -74,48 +74,63 @@ node.map {
 
 relationship.compound {
   color: #800000;
+  shaft-width: var({credibility});
 }
 relationship.expression {
   color: #ff0000;
+  shaft-width: var({credibility});
 }
 relationship.activation {
   color: #ff6699;
+  shaft-width: var({credibility});
 }
 relationship.inhibition {
   color: #00cc66;
+  shaft-width: var({credibility});
 }
 relationship.phosphorylation {
   color: #ffcc00;
+  shaft-width: var({credibility});
 }
 relationship.dephosporylation {
   color: #3333ff;
+  shaft-width: var({credibility});
 }
 relationship.glycosylation {
   color: #cc6699;
+  shaft-width: var({credibility});
 }
 relationship.ubiquitination {
   color: #9900cc;
+  shaft-width: var({credibility});
 }
 relationship.methylation {
   color: #33cccc;
+  shaft-width: var({credibility});
 }
 relationship.indirectEffect {
   color: #666699;
+  shaft-width: var({credibility});
 }
 relationship.hiddenCompound {
   color: #669999;
+  shaft-width: var({credibility});
 }
 relationship.stateChange {
   color: #00cc00;
+  shaft-width: var({credibility});
 }
 relationship.binding/association {
   color: #ff9933;
+  shaft-width: var({credibility});
 }
 relationship.dissociation {
   color: #0033cc;
+  shaft-width: var({credibility});
 }
 relationship.missingInteraction {
   color: #000066;
+  shaft-width: var({credibility});
 }
 relationship.has_alia {
   color: blue;
