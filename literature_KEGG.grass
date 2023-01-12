@@ -142,7 +142,7 @@ relationship.has_alia {
   padding: 3px;
   text-color-external: #000000;
   text-color-internal: #FFFFFF;
-  caption: "{type}";
+  caption: "{type} ({source})";
 }
 relationship.is_alia_of {
   color: blue;
@@ -152,5 +152,5 @@ relationship.is_alia_of {
   padding: 3px;
   text-color-external: #000000;
   text-color-internal: #FFFFFF;
-  caption: "{type}";
+  caption: "{type} ({source})";
 }
