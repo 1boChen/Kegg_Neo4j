@@ -1,0 +1,14 @@
+starter,starter_KEGG_ID,starter_in,starter_out,starter_total,receiver,receiver_KEGG_ID,receiver_in,receiver_out,receiver_total,relation,PMID,Img,GPT_answer,KEGG_matched
+TSC1,hsa:7248,4,4,8,RHEB,hsa:6009,4,1,5,inhibit,22739075,22739075_page2_36.jpg,Yes,Yes
+TSC1,hsa:7248,4,4,8,RHEB,hsa:6009,4,1,5,inhibit,28208579,28208579_page7_414.jpg,Yes,Yes
+AKT,hsa:207,65,58,123,TSC1,hsa:7248,4,4,8,inhibit,22739075,22739075_page2_36.jpg,Yes,Yes
+AKT,hsa:207,65,58,123,TSC1,hsa:7248,4,4,8,inhibit,28208579,28208579_page7_414.jpg,Yes,Yes
+AKT,hsa:207,65,58,123,TSC1,hsa:7248,4,4,8,inhibit,29729495,29729495_page44_89.jpg,Yes,Yes
+ERK1,hsa:5595,9,6,15,BIM,hsa:10018,7,1,8,inhibit,24618619,24618619_page10_39.jpg,No,Yes
+AMPK,hsa:5563,4,7,11,MTOR,hsa:2475,50,25,75,inhibit,26861738,26861738_page4_100.jpg,Yes,Yes
+AMPK,hsa:5563,4,7,11,MTOR,hsa:2475,50,25,75,inhibit,28208579,28208579_page5_302.jpg,Yes,Yes
+TSC2,hsa:7249,2,4,6,RHEB,hsa:6009,4,1,5,inhibit,29729495,29729495_page44_89.jpg,Yes,Yes
+MIR-21,hsa:406991,3,2,5,PTEN,hsa:5728,12,22,34,inhibit,30982492,30982492_page3_44.jpg,Yes,Yes
+SHP2,hsa:5781,0,6,6,ZAP70,hsa:7535,2,2,4,inhibit,31387181,31387181_page1_27.jpg,Yes,Yes
+SHP2,hsa:5781,0,6,6,ZAP70,hsa:7535,2,2,4,inhibit,31387181,31387181_page1_27.jpg,Yes,Yes
+p21,hsa:1026,4,4,8,CDK2,hsa:1017,2,5,7,inhibit,31391058,31391058_page6_108.jpg,Yes,Yes
