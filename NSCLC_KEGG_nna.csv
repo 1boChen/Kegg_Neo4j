@@ -1,6 +1,8 @@
 starter,starter_KEGG_ID,starter_in,starter_out,starter_total,receiver,receiver_KEGG_ID,receiver_in,receiver_out,receiver_total,relation,PMID,Img,GPT_answer,KEGG_matched
 PKC,hsa:112476,8,7,15,PLC-y,None,5,5,10,activate,21715183,21715183_page2_39.jpg,No,gene not mapped
 VEGFR,hsa:3791,0,1,1,PLC-y,None,5,5,10,activate,21715183,21715183_page2_39.jpg,No,gene not mapped
+PTEN,hsa:5728,12,22,34,AKT,hsa:207,65,58,123,activate,22176813,22176813_page1_24.jpg,No,No
+PTEN,hsa:5728,12,22,34,AKT,hsa:207,65,58,123,activate,32873398,32873398_page5_145.jpg,No,No
 IL-12,None,2,2,4,IL-12,None,2,2,4,activate,22226940,22226940_page2_29.jpg,No,gene not mapped
 P27,hsa:3429,3,2,5,P27,hsa:3429,3,2,5,activate,22441109,22441109_page8_76.jpg,No,No
 NOS,hsa:4842,0,2,2,LPS,hsa:3664,3,3,6,activate,22481432,22481432_page1_87.jpg,No,No
@@ -35,6 +37,9 @@ TF,hsa:2152,1,7,8,GENE,None,4,0,4,activate,24200043,24200043_page11_125.jpg,No,g
 TF,hsa:2152,1,7,8,GENE,None,4,0,4,activate,24200043,24200043_page11_125.jpg,No,gene not mapped
 COSMC,hsa:29071,0,1,1,GAD,hsa:2571,1,0,1,activate,24200043,24200043_page11_125.jpg,No,No
 MORC2,hsa:22880,1,1,2,AKT,hsa:207,65,58,123,activate,24389182,24389182_page4_13.jpg,No,No
+PTEN,hsa:5728,12,22,34,PI3K,hsa:5290,53,57,110,activate,24389182,24389182_page4_13.jpg,No,No
+PTEN,hsa:5728,12,22,34,PI3K,hsa:5290,53,57,110,activate,31485605,31485605_page9_37.jpg,No,No
+PTEN,hsa:5728,12,22,34,PI3K,hsa:5290,53,57,110,activate,32454155,32454155_page4_37.jpg,No,No
 STAT,hsa:6646,20,7,27,KRAS,hsa:3845,5,17,22,activate,24566035,24566035_page3_43.jpg,No,No
 AA,hsa:7003,0,1,1,WAS,hsa:7454,3,1,4,activate,24980784,24980784_page9_73.jpg,No,No
 VEGF-C,hsa:7424,1,2,3,VEGF-C,hsa:7424,1,2,3,activate,25001183,25001183_page12_246.jpg,No,No
@@ -69,6 +74,7 @@ STAT3,hsa:6774,22,23,45,STAT3,hsa:6774,22,23,45,activate,25597412,25597412_page7
 STAT3,hsa:6774,22,23,45,STAT3,hsa:6774,22,23,45,activate,34059647,34059647_page9_160.jpg,No,No
 STAT3,hsa:6774,22,23,45,STAT3,hsa:6774,22,23,45,activate,34059647,34059647_page9_160.jpg,No,No
 STAT3,hsa:6774,22,23,45,STAT3,hsa:6774,22,23,45,activate,34059647,34059647_page9_160.jpg,No,No
+SOS,hsa:64132,1,10,11,p110,hsa:9733,1,1,2,activate,25601485,25601485_page1_29.jpg,No,No
 hsa-mir-628,hsa:693213,4,1,5,PSTPIP2,hsa:9050,1,0,1,activate,25686496,25686496_page1_15.jpg,No,No
 TMEM14A,hsa:28978,0,1,1,KDM5B,hsa:10765,1,1,2,activate,25686496,25686496_page1_15.jpg,No,No
 RBM5,hsa:10181,0,2,2,hsa-mir-628,hsa:693213,4,1,5,activate,25686496,25686496_page1_15.jpg,No,No
@@ -100,6 +106,8 @@ PTEN,hsa:5728,12,22,34,Bst1,hsa:80055,3,2,5,activate,26809240,26809240_page5_113
 DOCK2,hsa:1794,0,1,1,DOCK4,hsa:9732,1,0,1,activate,26809240,26809240_page5_113.jpg,No,No
 SOD,hsa:6647,1,1,2,DNA,None,3,1,4,activate,27102150,27102150_page3_12.jpg,No,gene not mapped
 COPD,hsa:372,0,1,1,DAMAGE,hsa:57692,1,0,1,activate,27102150,27102150_page3_12.jpg,No,No
+GSH,None,0,1,1,SOD,hsa:6647,1,1,2,activate,27102150,27102150_page3_12.jpg,No,gene not mapped
+GO,hsa:92344,7,2,9,PCNA,hsa:5111,1,1,2,activate,27102150,27102150_page5_20.jpg,No,No
 PUMA,hsa:27113,2,3,5,HDAC1,hsa:3065,2,1,3,activate,27102150,27102150_page5_20.jpg,No,No
 PUMA,hsa:27113,2,3,5,HDAC1,hsa:3065,2,1,3,activate,27102150,27102150_page5_20.jpg,No,No
 PCNA,hsa:5111,1,1,2,GO,hsa:92344,7,2,9,activate,27102150,27102150_page5_20.jpg,No,No
@@ -109,18 +117,23 @@ TIMP2,hsa:7077,0,1,1,MMP1,hsa:4312,3,0,3,activate,27581786,27581786_page21_97.jp
 ERVWE1,hsa:30816,0,1,1,AKT1,hsa:207,3,0,3,activate,27581786,27581786_page21_97.jpg,No,No
 SNAI2,hsa:6591,0,1,1,TIMP1,hsa:7076,3,0,3,activate,27581786,27581786_page21_97.jpg,No,No
 NOT,hsa:4929,0,1,1,ALK,hsa:238,1,2,3,activate,27693505,27693505_page22_391.jpg,No,No
+EIF3B,hsa:8662,0,1,1,EIF3A,hsa:8661,2,0,2,activate,27840927,27840927_page6_16.jpg,No,No
 SMAD3,hsa:4088,0,2,2,NKILA,None,1,0,1,activate,28412955,28412955_page10_215.jpg,No,gene not mapped
 p65,hsa:5970,1,2,3,p65,hsa:5970,1,2,3,activate,28412955,28412955_page10_215.jpg,No,No
+WD,hsa:6521,0,2,2,EML4,hsa:27436,1,0,1,activate,28463570,28463570_page18_222.jpg,No,No
 TP53,hsa:7157,8,7,15,CD82,hsa:3732,1,0,1,activate,28501728,28501728_page4_38.jpg,No,No
 PTGS2,hsa:5743,0,4,4,TP53,hsa:7157,8,7,15,activate,28501728,28501728_page4_38.jpg,No,No
 PTGS2,hsa:5743,0,4,4,TP53,hsa:7157,8,7,15,activate,28501728,28501728_page4_38.jpg,No,No
 PTGS2,hsa:5743,0,4,4,TP53,hsa:7157,8,7,15,activate,28501728,28501728_page4_38.jpg,No,No
+TP53,hsa:7157,8,7,15,TFRC,hsa:7037,2,0,2,activate,28501728,28501728_page4_38.jpg,No,No
 BDNF,hsa:627,1,1,2,TP53,hsa:7157,8,7,15,activate,28501728,28501728_page4_38.jpg,No,No
 SLC2A1,hsa:6513,0,1,1,SERPINE,None,2,0,2,activate,28570035,28570035_page33_71.jpg,No,gene not mapped
+PGAM,None,1,2,3,SERPINE,None,2,0,2,activate,28570035,28570035_page35_76.jpg,No,gene not mapped
 GAPDH,hsa:2597,2,2,4,PGK,hsa:5592,2,1,3,activate,28570035,28570035_page35_76.jpg,No,No
 PD-L1,hsa:29126,6,6,12,PD-L1,hsa:29126,6,6,12,activate,29167009,29167009_page3_11.jpg,No,No
 RANK,hsa:8792,0,1,1,NIK,hsa:9020,4,0,4,activate,29588475,29588475_page2_90.jpg,No,No
 p53,hsa:7157,6,12,18,AMPK,hsa:5563,4,7,11,activate,29650275,29650275_page1_14.jpg,No,No
+MPE,None,1,1,2,HOST,None,1,1,2,activate,29693703,29693703_page4_10.jpg,No,gene not mapped
 HOST,None,1,1,2,MPE,None,1,1,2,activate,29693703,29693703_page4_10.jpg,No,gene not mapped
 VEGF,hsa:7422,3,4,7,VEGF,hsa:7422,3,4,7,activate,29693703,29693703_page5_14.jpg,No,No
 VEGF,hsa:7422,3,4,7,VEGF,hsa:7422,3,4,7,activate,29693703,29693703_page5_14.jpg,No,No
@@ -167,6 +180,9 @@ SFRP,None,1,3,4,DKK,None,1,2,3,activate,31545260,31545260_page5_142.jpg,No,gene 
 RAB37,hsa:326624,0,1,1,SFRP,None,1,3,4,activate,31545260,31545260_page5_142.jpg,No,gene not mapped
 SFRP,None,1,3,4,DKK1,hsa:22943,2,0,2,activate,31545260,31545260_page5_142.jpg,No,gene not mapped
 C3,hsa:718,0,1,1,C4,hsa:720,1,0,1,activate,31652618,31652618_page3_98.jpg,No,No
+STATI,None,2,3,5,JAK,None,7,20,27,activate,31775888,31775888_page14_264.jpg,No,gene not mapped
+HNRNPC,hsa:3183,1,1,2,STATI,None,2,3,5,activate,31775888,31775888_page14_264.jpg,No,gene not mapped
+STATI,None,2,3,5,HNRNPC,hsa:3183,1,1,2,activate,31775888,31775888_page14_264.jpg,No,gene not mapped
 STATI,None,2,3,5,STATI,None,2,3,5,activate,31775888,31775888_page14_264.jpg,No,gene not mapped
 PD-L1,hsa:29126,6,6,12,HC-II,hsa:3053,1,0,1,activate,32126451,32126451_page25_355.jpg,No,No
 POU2AF1,hsa:5450,0,1,1,SPC25,hsa:57405,1,0,1,activate,32299382,32299382_page6_203.jpg,No,No
@@ -178,6 +194,7 @@ MIR874,hsa:100126343,0,1,1,MIR186,hsa:406962,2,3,5,activate,32307773,32307773_pa
 Yes,hsa:7525,3,3,6,Yes,hsa:7525,3,3,6,activate,32327178,32327178_page4_86.jpg,No,No
 Yes,hsa:7525,3,3,6,Yes,hsa:7525,3,3,6,activate,32327178,32327178_page4_86.jpg,No,No
 Yes,hsa:7525,3,3,6,Yes,hsa:7525,3,3,6,activate,32327178,32327178_page4_86.jpg,No,No
+STAT,hsa:6646,20,7,27,MYC,hsa:4609,4,2,6,activate,32703503,32703503_page18_257.jpg,No,No
 BCL2,hsa:596,2,3,5,STAT,hsa:6646,20,7,27,activate,32703503,32703503_page18_257.jpg,No,No
 STAT,hsa:6646,20,7,27,BCL2,hsa:596,2,3,5,activate,32703503,32703503_page18_257.jpg,No,No
 NEMO,hsa:8517,1,2,3,AND,None,3,7,10,activate,32703503,32703503_page18_257.jpg,No,gene not mapped
@@ -203,6 +220,8 @@ SET,hsa:6418,0,1,1,GLY,None,1,0,1,activate,33130228,33130228_page2_6.jpg,No,gene
 OTUB1,hsa:55611,1,1,2,YAP,hsa:55249,10,9,19,activate,33174524,33174524_page9_13.jpg,No,No
 ROS,hsa:6098,2,1,3,ROS,hsa:6098,2,1,3,activate,33191402,33191402_page5_149.jpg,No,No
 TP53,hsa:7157,8,7,15,WRN,hsa:7486,1,0,1,activate,33225619,33225619_page2_27.jpg,No,No
+Dicer,hsa:23405,0,2,2,Trbp,hsa:6895,2,0,2,activate,33233641,33233641_page2_225.jpg,No,No
+Dicer,hsa:23405,0,2,2,Trbp,hsa:6895,2,0,2,activate,33233641,33233641_page2_225.jpg,No,No
 ANG2,hsa:738,0,1,1,EPIC1,None,1,0,1,activate,33359744,33359744_page10_113.jpg,No,gene not mapped
 HIF-1,hsa:29072,4,4,8,HIF-1,hsa:29072,4,4,8,activate,33445709,33445709_page2_128.jpg,No,No
 HIF-1,hsa:29072,4,4,8,HIF-1,hsa:29072,4,4,8,activate,33445709,33445709_page2_128.jpg,No,No
@@ -212,6 +231,7 @@ CAR,hsa:1525,1,4,5,HI,hsa:6833,4,1,5,activate,33675143,33675143_page17_309.jpg,N
 CAR,hsa:1525,1,4,5,HI,hsa:6833,4,1,5,activate,33675143,33675143_page17_309.jpg,No,No
 CAR,hsa:1525,1,4,5,HI,hsa:6833,4,1,5,activate,33675143,33675143_page17_309.jpg,No,No
 BBOX1-AS1,None,0,1,1,AGO2,hsa:27161,1,0,1,activate,33931086,33931086_page14_556.jpg,No,gene not mapped
+SOS,hsa:64132,1,10,11,PEK,hsa:9451,2,0,2,activate,34129744,34129744_page36_317.jpg,No,No
 MIR93,hsa:407050,0,3,3,SRSF2,hsa:6427,5,2,7,activate,34299277,34299277_page20_251.jpg,No,No
 MIR93,hsa:407050,0,3,3,SRSF2,hsa:6427,5,2,7,activate,34299277,34299277_page20_251.jpg,No,No
 MIR152,hsa:406943,0,3,3,GPM6A,hsa:2823,1,0,1,activate,34299277,34299277_page20_251.jpg,No,No
@@ -245,10 +265,13 @@ PRKACB,hsa:5567,2,1,3,MIL,None,1,3,4,activate,34299277,34299277_page23_322.jpg,N
 MIR133B,hsa:442890,4,2,6,FSCN1,hsa:6624,2,0,2,activate,34299277,34299277_page23_322.jpg,No,No
 MIR133B,hsa:442890,4,2,6,FSCN1,hsa:6624,2,0,2,activate,34299277,34299277_page23_322.jpg,No,No
 MIR373,hsa:442918,0,2,2,PRKACB,hsa:5567,2,1,3,activate,34299277,34299277_page23_322.jpg,No,No
+INS,hsa:3630,1,1,2,MIR133B,hsa:442890,4,2,6,activate,34299277,34299277_page23_322.jpg,No,No
 TNRC6B,hsa:23112,1,1,2,EIF2C1,hsa:26523,1,0,1,activate,34299277,34299277_page23_323.jpg,No,No
 MIR23B,hsa:407011,0,1,1,TNRC6B,hsa:23112,1,1,2,activate,34299277,34299277_page23_323.jpg,No,No
 EIF2C2,hsa:27161,1,3,4,MIR,hsa:220972,1,2,3,activate,34299277,34299277_page23_323.jpg,No,No
+ERK,hsa:5594,47,29,76,AKT,hsa:207,65,58,123,activate,34323489,34323489_page2_936.jpg,No,No
 XRCC1,hsa:7515,0,3,3,ERK1,hsa:5595,9,6,15,activate,34374490,34374490_page15_108.jpg,No,No
 XRCC1,hsa:7515,0,3,3,ERK1,hsa:5595,9,6,15,activate,34374490,34374490_page15_108.jpg,No,No
 SNAIL,hsa:6615,6,5,11,SNAIL,hsa:6615,6,5,11,activate,34506873,34506873_page51_161.jpg,No,No
 SNAIL,hsa:6615,6,5,11,SNAIL,hsa:6615,6,5,11,activate,34506873,34506873_page51_161.jpg,No,No
+IQGAP,None,2,1,3,IQGAP,None,2,1,3,activate,34506873,34506873_page51_161.jpg,No,gene not mapped
