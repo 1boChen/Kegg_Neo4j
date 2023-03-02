@@ -1,0 +1,6 @@
+starter,starter_KEGG_ID,starter_in,starter_out,starter_total,receiver,receiver_KEGG_ID,receiver_in,receiver_out,receiver_total,relation,PMID,Img,GPT_answer,KEGG_matched
+KIT,hsa:3815,0,2,2,KRAS,hsa:3845,5,17,22,activate,24853389,24853389_page3_10.jpg,No,Yes
+ALK,hsa:238,1,2,3,KRAS,hsa:3845,5,17,22,activate,27066905,27066905_page4_61.jpg,No,Yes
+RAL,hsa:5898,0,2,2,PLD1,hsa:5337,1,0,1,activate,28109399,28109399_page36_658.jpg,No,Yes
+BAFFR,hsa:115650,0,1,1,NIK,hsa:9020,4,0,4,activate,29588475,29588475_page2_90.jpg,No,Yes
+LTBR,hsa:4055,0,1,1,NIK,hsa:9020,4,0,4,activate,29588475,29588475_page2_90.jpg,No,Yes

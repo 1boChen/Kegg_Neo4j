@@ -1,0 +1,2 @@
+starter,starter_KEGG_ID,starter_in,starter_out,starter_total,receiver,receiver_KEGG_ID,receiver_in,receiver_out,receiver_total,relation,PMID,Img,GPT_answer,KEGG_matched
+ERK1,hsa:5595,9,6,15,BIM,hsa:10018,7,1,8,inhibit,24618619,24618619_page10_39.jpg,No,Yes
